@@ -163,7 +163,9 @@
         "update_ib_cf_xml",
         "update_ib_cfe",
         "update_ib_cfe_xml",
-        "update_ib_patch"
+        "update_ib_patch",
+        "git_sync",
+        "commit_ib_xml"
     ]
 
     пер ПутьКСкриптуИсполненияПараметр = ПараметрыПроекта.ПутьКСкриптуИсполнения.ОтносительныйПуть
