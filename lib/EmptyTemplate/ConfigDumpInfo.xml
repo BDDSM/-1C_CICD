@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
-	<ConfigVersions>
-		<Metadata name="Configuration.EmptyTmpl" id="4dbaa2a8-f875-47f4-80f5-80eca1c41368" configVersion="5e4eedeeffc1c676c291ac65cd488121d4becf2b"/>
-	</ConfigVersions>
-</ConfigDumpInfo>
